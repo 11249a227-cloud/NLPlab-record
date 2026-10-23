@@ -1,0 +1,13 @@
+print("Grammar-Based Model")
+print("-------------------")
+print("1. Uses grammar rules.")
+print("2. Produces grammatically correct sentences.")
+print("3. Does not require training data.")
+print("4. Cannot calculate probabilities.")
+
+print("\nStatistical Language Model")
+print("--------------------------")
+print("1. Learns from text data.")
+print("2. Uses word and bigram frequencies.")
+print("3. Calculates sentence probabilities.")
+print("4. Accuracy improves with more training data.")
